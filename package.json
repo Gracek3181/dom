@@ -1,0 +1,10 @@
+{
+  "name": "dom",
+  "version": "0.1.0",
+  "description": "Fusor is a simple JavaScript library that helps declaratively create and update DOM elements",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
